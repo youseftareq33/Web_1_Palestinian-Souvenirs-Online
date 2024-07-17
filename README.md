@@ -37,3 +37,5 @@ Store employees can manage inventory and process orders through the website.
 - HTML
 
 - CSS
+
+# Note: There is website_photo folder
